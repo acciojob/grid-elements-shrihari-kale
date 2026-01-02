@@ -4,8 +4,8 @@
       grid-template-columns: repeat(3, 1fr);
       gap: 10px;
 	  text-align:center;
-.box {
-	background-color:#f2f2f2;
-	border:1px solid #ccc;
+.grid-item{
+	background-color:rgb(242, 242, 242);
+	border:1px solid rgb(204, 204, 204);
 	padding:20px;
 }
